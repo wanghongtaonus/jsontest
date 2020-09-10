@@ -20,5 +20,5 @@
 {"name":"Senoko IN","macAddress":"AC83F3F349CC","status":"0","type":"Heartbeat"},
 {"name":"Senoko OUT","macAddress":"CC4B73906AEA","status":"0","type":"Heartbeat"},
 {"name":"UA2E","macAddress":"AC83F3A0421C","status":"0","type":"Heartbeat"},
-{"name":"1","macAddress":"000D6F9111E1","status":"1","type":"Button Pressed"},
-{"name":"5","macAddress":"000D6F910EF1","status":"1","type":"Button Pressed"}]}
+{"name":"1","macAddress":"000D6F9111E1","status":"0","type":"Button Pressed"},
+{"name":"5","macAddress":"000D6F910EF1","status":"0","type":"Button Pressed"}]}
